@@ -12,6 +12,9 @@
     letter-spacing: 8px;
     background-color: #d9d9d9;
 }
+.nav a{
+  color:white;
+}
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
